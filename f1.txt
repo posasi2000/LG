@@ -24,5 +24,19 @@ git exp생성
 2+3=5
 
 exp branch
+<<<<<<< HEAD
 exp branch
+>>>>>>> exp
+=======
+exp branch
+
+red
+green
+blue
+orange
+exp branch 
+coffee
+cake  2:37
+exp branch 
+
 >>>>>>> exp
